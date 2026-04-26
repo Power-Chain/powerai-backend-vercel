@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/powerai/*.js": {
+      "maxDuration": 60
+    }
+  }
+}
